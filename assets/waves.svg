@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1680 360" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="fade" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#a99a82" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#7e8b98" stop-opacity=".5"/>
+    </linearGradient>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation=".18"/>
+    </filter>
+  </defs>
+  <g fill="none" stroke="url(#fade)" stroke-linecap="round" filter="url(#soft)">
+    <path d="M-40 102C174 12 321 205 522 117S859 79 1048 135s351-65 676-20" stroke-width="8" stroke-dasharray="2 8"/>
+    <path d="M-40 114C174 24 321 217 522 129s337-38 526 18 351-65 676-20" stroke-width="8" stroke-dasharray="3 7"/>
+    <path d="M-40 126C174 36 321 229 522 141s337-38 526 18 351-65 676-20" stroke-width="8" stroke-dasharray="2 8"/>
+    <path d="M-40 138C174 48 321 241 522 153s337-38 526 18 351-65 676-20" stroke-width="8" stroke-dasharray="4 7"/>
+    <path d="M-40 150C174 60 321 253 522 165s337-38 526 18 351-65 676-20" stroke-width="8" stroke-dasharray="2 8"/>
+    <path d="M-40 162C174 72 321 265 522 177s337-38 526 18 351-65 676-20" stroke-width="8" stroke-dasharray="3 7"/>
+    <path d="M-40 174C174 84 321 277 522 189s337-38 526 18 351-65 676-20" stroke-width="8" stroke-dasharray="2 8"/>
+    <path d="M-40 186C174 96 321 289 522 201s337-38 526 18 351-65 676-20" stroke-width="8" stroke-dasharray="4 7"/>
+    <path d="M-40 198C174 108 321 301 522 213s337-38 526 18 351-65 676-20" stroke-width="8" stroke-dasharray="2 8"/>
+    <path d="M-40 210C174 120 321 313 522 225s337-38 526 18 351-65 676-20" stroke-width="8" stroke-dasharray="3 7"/>
+    <path d="M-40 222C174 132 321 325 522 237s337-38 526 18 351-65 676-20" stroke-width="8" stroke-dasharray="2 8"/>
+    <path d="M-40 234C174 144 321 337 522 249s337-38 526 18 351-65 676-20" stroke-width="8" stroke-dasharray="4 7"/>
+    <path d="M-40 246C174 156 321 349 522 261s337-38 526 18 351-65 676-20" stroke-width="8" stroke-dasharray="2 8"/>
+    <path d="M-40 258C174 168 321 361 522 273s337-38 526 18 351-65 676-20" stroke-width="8" stroke-dasharray="3 7"/>
+    <path d="M-40 270C174 180 321 373 522 285s337-38 526 18 351-65 676-20" stroke-width="8" stroke-dasharray="2 8"/>
+  </g>
+  <path d="M-40 186C174 96 321 289 522 201s337-38 526 18 351-65 676-20" fill="none" stroke="#788897" stroke-opacity=".18" stroke-width="27" stroke-dasharray="3 8"/>
+</svg>
