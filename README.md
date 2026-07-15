@@ -1,6 +1,10 @@
-# ARAMBOIA landing page
+# ARAMBOIA landing page — Clean Final v3
 
 Responsive single-page website for `aramboia.com.br`.
+
+This version includes the transparent embedded logo, warm ivory background,
+a restrained bottom Rio pattern, responsive mobile layout, and a single row of
+email and social controls with brand colors on interaction.
 
 ## Local preview
 
